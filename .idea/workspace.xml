@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab4b05b0-e6a2-46ac-8d55-bad6da38c5d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/personapi/PersonapiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/personapi/controller/PersonController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/personapi/dto/request/PersonDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/personapi/dto/request/PhoneDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/personapi/dto/response/MessageResponseDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/personapi/entity/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/personapi/entity/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/personapi/enums/PhoneType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/personapi/exception/PersonNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/personapi/mapper/PersonMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/personapi/repository/PersonRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/personapi/service/PersonService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/one/digitalinnovation/personapi/PersonapiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/one/digitalinnovation/personapi/service/PersonServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/one/digitalinnovation/personapi/utils/PersonUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/one/digitalinnovation/personapi/utils/PhoneUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lkkpM3sKqKgUm2kCjmzIaBPTFD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.BookController">
+    <configuration name="BookController" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.personapi.PersonapiApplication" />
+      <module name="personapi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonapiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="personapi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="one.digitalinnovation.personapi.PersonapiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BookController" />
+      <item itemvalue="Spring Boot.PersonapiApplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab4b05b0-e6a2-46ac-8d55-bad6da38c5d2" name="Default Changelist" comment="" />
+      <created>1608148659838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608148659838</updated>
+      <workItem from="1608148714954" duration="1699000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
